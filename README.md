@@ -1,21 +1,21 @@
 ---
-summary: 'Show the teacher that you’ve started made significant progress coding your website.'
+summary: 'Show the teacher that you’ve started planning the code for your SAAS website.'
 time: '5 minutes'
-deliverables: 'Working website'
+deliverables: 'Marked-up wireframes'
 ---
 
-# SAAS website check-in
+# SAAS website sketches
 
 ## Overview
 
-- Show the progress of your coded website.
-- There should be significant progress.
+Mark up your wireframes with important parts of what you’ll need to code. Similar to what we did in the [Sketching websites](https://learn-the-web.algonquindesign.ca/courses/web-dev-2/sketching-websites/) & [Finding patterns](https://learn-the-web.algonquindesign.ca/courses/web-dev-2/finding-patterns/) exercises.
 
-*Any 1 of these things would count as a failure:*
+Sketch out the following items:
 
-- Nothing started or only started in class
-- Only the files are created
-- Some HTML but no CSS
+- The important semantics: `<h1>`, `<nav>`, `<main>`, etc.
+- Grid rows and columns & the unit sizes for different screen widths
+- Type system classes: `.island`, `.push`, `.pad`, etc.
+- Module classes: `.list-group`, `.embed`, `.btn`, etc.
 
 ---
 
