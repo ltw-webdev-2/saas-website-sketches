@@ -1,10 +1,10 @@
 ---
-summary: 'Show the teacher that you’ve started planning the code for your SAAS website.'
+summary: 'Show the teacher that you’ve started planning the code for your SaaS website.'
 time: '5 minutes'
 deliverables: 'Marked-up wireframes'
 ---
 
-# SAAS website sketches
+# SaaS website sketches
 
 ## Overview
 
