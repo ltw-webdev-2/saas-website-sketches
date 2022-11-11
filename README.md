@@ -8,7 +8,7 @@ deliverables: 'Marked-up wireframes'
 
 ## Overview
 
-Mark up your wireframes with important parts of what you’ll need to code. Similar to what we did in the [Sketching websites](https://learn-the-web.algonquindesign.ca/courses/web-dev-2/sketching-websites/) & [Finding patterns](https://learn-the-web.algonquindesign.ca/courses/web-dev-2/finding-patterns/) exercises.
+Mark up your wireframes with important parts of what you’ll need to code. Similar to what we did in the [Sketching websites](https://learntheweb.courses/courses/web-dev-2/sketching-websites/) & [Finding patterns](https://learntheweb.courses/courses/web-dev-2/finding-patterns/) exercises.
 
 Sketch out the following items:
 
